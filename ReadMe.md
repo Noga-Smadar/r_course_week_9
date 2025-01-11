@@ -18,7 +18,7 @@ I created descriptive statistics for the data by applying a function I created i
 ## Functions
 You can see this part in *functions.R*.
 <br/><br/>
-In this script I created a function which, as per the assignment, recieves a dataframe argument, a subject_start argument and a subject_end argument.
+In this script I created a function which, as per the assignment, receives a dataframe argument, a subject_start argument and a subject_end argument.
 It then takes the data within the subject_start/end values, and returns a results dataframe, specifying the following:
 - For a numeric variable: mean, min and max.
 - For a factor: a count of how many observations are in each group.
