@@ -22,4 +22,6 @@ In this script I created a function which, as per the assignment, recieves a dat
 It then takes the data within the subject_start/end values, and returns a results dataframe, specifying the following:
 - For a numeric variable: mean, min and max.
 - For a factor: a count of how many observations are in each group.
+<br/><br/>
+
 If there are less than 10 rows in the dataframe the functions instead returns "data is too short". 
